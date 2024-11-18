@@ -1,4 +1,4 @@
-[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/orange?icon=github) [![Greetings Programs](https://img.shields.io/badge/Greetings-Programs-blue.svg)](https://en.wikipedia.org/wiki/Tron) [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/orange?icon=github) [![Greetings Program](https://img.shields.io/badge/Greetings-Programs-blue.svg)](https://en.wikipedia.org/wiki/Tron) [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 # Hi I'm Beatrice
 ## About me:
 Mechanical engineer who makes programs because the robot won't move if you don't tell it to do so (in java)
