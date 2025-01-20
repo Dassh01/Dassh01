@@ -10,11 +10,16 @@
 ```
 # Hi, I'm Beatrice
 ## About me:
-Mechanical engineer who makes programs because the robot won't move if you don't tell it to do so (in java)
+Mechanical engineer who makes programs because the robot won't move if you don't tell it to do so
+### Past/Current Roles:
 > Mechanical Engineer [FRC 7034 2BD] \
-> Programming Lead [FTC 10332 TD] 
+> Programming Lead [FTC 10332 TD] \
+> Oregon Game Project Participant [24-25, Teradox] \
+> PicoCTF Cybersecurity Novice 
 
-## Stats!:
+
 > [![Bea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dassh01&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Find me elsewhere:
+[PicoCTF](https://play.picoctf.org/users/Dassh02)
