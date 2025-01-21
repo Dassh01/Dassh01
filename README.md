@@ -18,6 +18,7 @@ Mechanical engineer who makes programs because the robot won't move if you don't
 > PicoCTF Cybersecurity Novice 
 
 (I promise I'm more then a java programmer... :sob:)
+> [![Areas](https://skillicons.dev/icons?i=idea,cpp,java,py,lua,js)](https://skillicons.dev) \
 > [![Bea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dassh01&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
