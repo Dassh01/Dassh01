@@ -17,7 +17,7 @@ Mechanical engineer who makes programs because the robot won't move if you don't
 > Oregon Game Project Participant [24-25, Teradox] \
 > PicoCTF Cybersecurity Novice 
 
-
+(I promise I'm more then a java programmer... :sob:)
 > [![Bea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dassh01&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
