@@ -12,9 +12,9 @@
 ## About me:
 Mechanical engineer who makes programs because the robot won't move if you don't tell it to do so
 ### Past/Current Roles:
-> Mechanical Engineer [FRC Robotics 7034 2BD] \
+> Mechanical Engineer [FRC Robotics [7034 2BD](https://github.com/2BDetermined-7034)] \
 > Programming Lead [FTC Robotics 10332 TD] \
-> Oregon Game Project Participant [24-25, Team Teradox] \
+> Oregon Game Project Participant [24-25, Team [Teradox](https://github.com/Teradoxx)] \
 > PicoCTF Cybersecurity Novice 
 
 (I promise I'm more then a java programmer... :sob:)
