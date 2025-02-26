@@ -14,7 +14,8 @@ Mechanical engineer who makes programs because the robot won't move if you don't
 ### Past/Current Roles:
 > Mechanical Engineer [FRC Robotics [7034 2BD](https://github.com/2BDetermined-7034)] \
 > Programming Lead [FTC Robotics [10332 TD](https://github.com/TechnicalDifficulties10332)] \
-> Oregon Game Project Participant [24-25, Team [Teradox](https://github.com/Teradoxx)] \
+> Oregon Game Project Participant [24-25, [Team Teradox](https://github.com/Teradoxx)] \
+> ISEF 2025 Districts: Technology In Health [[Award Winner](https://github.com/Dassh01/ISEF2025)] \
 > PicoCTF Cybersecurity Novice 
 
 (I promise I'm more then a java programmer... :sob:)
@@ -23,4 +24,5 @@ Mechanical engineer who makes programs because the robot won't move if you don't
 
 
 ## Find me elsewhere:
-[PicoCTF](https://play.picoctf.org/users/Dassh02)
+PicoCTF [Profile](https://play.picoctf.org/users/Dassh02) \
+Stack Overflow [Profile](https://stackoverflow.com/users/27435257/dassh01)
