@@ -16,13 +16,12 @@ Mechanical engineer who makes programs because the robot won't move if you don't
 > Programming Lead [FTC Robotics [10332 TD](https://github.com/TechnicalDifficulties10332)] \
 > Oregon Game Project Participant [24-25, [Team Teradox](https://github.com/Teradoxx)] \
 > ISEF 2025 Districts: Technology In Health [[Award Winner](https://github.com/Dassh01/ISEF2025)] \
-> PicoCTF Cybersecurity Novice 
+> PicoCTF Cybersecurity Novice <br>
 
-(I promise I'm more then a java programmer... :sob:)
-> [![Areas](https://skillicons.dev/icons?i=idea,cpp,java,py,lua,js)](https://skillicons.dev) \
 > [![Bea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dassh01&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Find me elsewhere:
 PicoCTF [Profile](https://play.picoctf.org/users/Dassh02) \
-Stack Overflow [Profile](https://stackoverflow.com/users/27435257/dassh01)
+Stack Overflow [Profile](https://stackoverflow.com/users/27435257/dassh01) \
+<br> [![Areas](https://skillicons.dev/icons?i=idea,cpp,java,py,lua,js,androidstudio,docker,vscode,github,&perline=5)](https://skillicons.dev) 
