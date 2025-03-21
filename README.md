@@ -16,7 +16,7 @@ Mechanical engineer who makes programs because the robot won't move if you don't
 > Programming Lead [FTC Robotics [10332 TD](https://github.com/TechnicalDifficulties10332)] \
 > Oregon Game Project Participant [24-25, [Team Teradox](https://github.com/Teradoxx)] \
 > PicoCTF Cybersecurity Novice  \
-> Computer Science Honors Society Member/Teacher \
+> Computer Science Honors Society Member \
 > ISEF 2025 Districts: Technology In Health [[Award Winner](https://github.com/Dassh01/ISEF2025)] <br>
 
 > [![Bea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dassh01&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
