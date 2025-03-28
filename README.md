@@ -26,4 +26,5 @@ Mechanical engineer who makes programs because the robot won't move if you don't
 Email: gilfixbea@gmail.com \
 PicoCTF [Profile](https://play.picoctf.org/users/Dassh02) \
 Stack Overflow [Profile](https://stackoverflow.com/users/27435257/dassh01) \
+Autodesk Instructables [Profile](https://www.instructables.com/member/Dassh01/) \
 <br> [![Areas](https://skillicons.dev/icons?i=idea,cpp,java,py,lua,js,androidstudio,docker,vscode,github,&perline=5)](https://skillicons.dev) 
