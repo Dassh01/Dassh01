@@ -19,7 +19,7 @@ Mechanical engineer who makes programs because the robot won't move if you don't
 > Computer Science Honors Society Member \
 > ISEF 2025 Districts: Technology In Health [[Award Winner](https://github.com/Dassh01/ISEF2025)] <br>
 
-> | Marketing and Design FTC Robotics | <br>
+#### Marketing and Design FTC Robotics: <br>
 > 2023-2024 2nd Place Districts Connect Award Winner [22559 Winkiedinks] <br>
 > 2024-2025 2nd Place Districts Inspire Award Winner [10332 Technical Difficulties]
 
