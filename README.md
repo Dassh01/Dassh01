@@ -15,9 +15,9 @@ Mechanical engineer who makes programs because the robot won't move if you don't
 > Mechanical Engineer [FRC Robotics [7034 2BD](https://github.com/2BDetermined-7034)] \
 > Programming Lead [FTC Robotics [10332 TD](https://github.com/TechnicalDifficulties10332)] \
 > Oregon Game Project Participant [24-25, [Team Teradox](https://github.com/Teradoxx)] \
-> PicoCTF Cybersecurity Novice  \
-> Computer Science Honors Society Member \
-> ISEF 2025 Districts: Technology In Health [[Award Winner](https://github.com/Dassh01/ISEF2025)] <br>
+> ISEF 2025 Districts: Technology In Health [[Award Winner](https://github.com/Dassh01/ISEF2025)] \
+> School's Computer Science Honors Society Vice-President \
+> PicoCTF Cybersecurity Novice <br>
 
 #### Marketing and Design FTC Robotics: <br>
 > 2023-2024 2nd Place Districts Connect Award Winner [22559 Winkiedinks] <br>
