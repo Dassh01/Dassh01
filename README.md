@@ -17,6 +17,7 @@ Mechanical engineer who makes programs because the robot won't move if you don't
 > Oregon Game Project Participant [24-25, [Team Teradox](https://github.com/Teradoxx)] \
 > ISEF 2025 Districts: Technology In Health [[Award Winner](https://github.com/Dassh01/ISEF2025)] \
 > School's Computer Science Honors Society Vice-President \
+> School's Programming Club Vice-President \
 > PicoCTF Cybersecurity Novice <br>
 
 #### Marketing and Design FTC Robotics: <br>
