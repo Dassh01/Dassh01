@@ -10,7 +10,7 @@
 ```
 # Hi, I'm Beatrice
 ## About me:
-Mechanical engineer who makes programs because the robot won't move if you don't tell it to do so
+I'm a mechanical engineer who makes programs because the robot won't move if you don't tell it to do so
 ### Roles/Accolades:
 > Mechanical Engineer [FRC Robotics [7034 2BD](https://github.com/2BDetermined-7034)] \
 > Programming Lead [FTC Robotics [10332 TD](https://github.com/TechnicalDifficulties10332)] \
