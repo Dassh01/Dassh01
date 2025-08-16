@@ -28,7 +28,6 @@ I'm a mechanical engineer who makes programs because robots don't move if you do
 
 
 ## Find me elsewhere:
-Email: gilfixbea@gmail.com \
 PicoCTF [Profile](https://play.picoctf.org/users/Dassh02) \
 Stack Overflow [Profile](https://stackoverflow.com/users/27435257/dassh01) \
 Autodesk Instructables [Profile](https://www.instructables.com/member/Dassh01/) \
