@@ -24,9 +24,6 @@ I'm a mechanical engineer who makes programs because robots don't move if you do
 > 2023-2024 2nd Place Districts Connect Award Winner [22559 Winkiedinks] <br>
 > 2024-2025 2nd Place Districts Inspire Award Winner [10332 Technical Difficulties]
 
-> [![Bea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dassh01&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Find me elsewhere:
 PicoCTF [Profile](https://play.picoctf.org/users/Dassh02) \
 Stack Overflow [Profile](https://stackoverflow.com/users/27435257/dassh01) \
